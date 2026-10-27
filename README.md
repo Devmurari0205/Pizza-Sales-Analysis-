@@ -64,8 +64,7 @@ pizza-sales-analysis/
 Save the final dashboard screenshot in the repository as `dashboard/pizza_sales_dashboard.png`, then this image will display on GitHub:
 
 ```markdown
-![Pizza Sales Dashboard](https://github.com/Devmurari0205/Pizza-Sales-Analysis-/blob/main/dashboard/Pizza_sales_dashboard_screenshot.png)
-```
+![Pizza Sales Dashboard](Pizza_sales_dashboard_screenshot.png)
 
 The dashboard includes:
 - KPI cards for total revenue, total orders, total pizzas sold, and average order value
